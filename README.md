@@ -3,7 +3,7 @@
 This is a simple number guessing game implemented in Python. The game allows the user to guess a randomly generated number within a specified range. The user has five attempts to guess the correct number. The game provides feedback to the user after each guess, indicating whether the guess was too high, too low, or correct. The game continues until the user either guesses the correct number or loses.
 
 
-#Features:
+# Features:
 
 Randomly generates a number within a given range.
 Allows the user to make multiple guesses.
@@ -12,7 +12,7 @@ Uses if-else statements to determine the correct feedback.
 Utilizes a while loop for the main game loop.
 Implements the break statement to exit the loop.
 
-#How to Play:
+# How to Play:
 
 Run the script in a Python environment.
 The game will greet you and provide instructions.
