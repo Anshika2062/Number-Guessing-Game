@@ -5,19 +5,19 @@ This is a simple number guessing game implemented in Python. The game allows the
 
 # Features:
 
-Randomly generates a number within a given range.
-Allows the user to make multiple guesses.
-Provides feedback on each guess.
-Uses if-else statements to determine the correct feedback.
-Utilizes a while loop for the main game loop.
-Implements the break statement to exit the loop.
+Randomly generates a number within a given range. <br>
+Allows the user to make multiple guesses.<br>
+Provides feedback on each guess.<br>
+Uses if-else statements to determine the correct feedback.<br>
+Utilizes a while loop for the main game loop.<br>
+Implements the break statement to exit the loop.<br>
 
 # How to Play:
 
-Run the script in a Python environment.
-The game will greet you and provide instructions.
-You will be prompted to enter the lower and upper bounds of the range for the random number.
-The game will generate a random number within that range.
-You can start guessing the number.
-After each guess, the game will provide feedback on whether the guess is too high, too low, or correct.
-Keep guessing until you guess the correct number.
+Run the script in a Python environment.<br>
+The game will greet you and provide instructions.<br>
+You will be prompted to enter the lower and upper bounds of the range for the random number.<br>
+The game will generate a random number within that range.<br>
+You can start guessing the number.<br>
+After each guess, the game will provide feedback on whether the guess is too high, too low, or correct.<br>
+Keep guessing until you guess the correct number.<br>
